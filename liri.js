@@ -1,6 +1,3 @@
-// Import the necessary Node.js Packages
-var moment = require('moment');
-
 // Grab the <command> from the command line
 var command = process.argv[2];
 
@@ -12,5 +9,5 @@ switch (command) {
     case 'concert-this': require('./commands/concert-this').query(term); break;
     case 'spotify-this-song': require('./commands/spotify-this-song').query(term); break;
     case 'movie-this': require('./commands/movie-this').query(term); break;
-    case 'do-what-it-says': break;
+    case 'do-what-it-says': require('./commands/do-what-it-says').do(term); break;
 }
