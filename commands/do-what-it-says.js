@@ -1,29 +1,28 @@
+// Import our Node.js Packages
+var fs = require('fs');
 
 // Import our custom packages
 var logger = require('../logger');
 
 module.exports = {
-    do: function (term) {
-
-        // Put in custom logic to replace the command and term here
-        var fs = require('fs');
+    do: function (filepath) {
     
-        // If no term was supplied
-        if (!term) {
+        // If no filepath was supplied
+        if (!filepath) {
     
             // Set our default file here
-            term = 'random.txt';
+            filepath = 'random.txt';
         }
     
         // Read the first line of the supplied file
-        fs.readFile(term, 'utf8', function(err, data) {
+        fs.readFile(filepath, 'utf8', function(err, data) {
     
             // If we got information back from the file
             if (!err) {
     
                 // Extract our command and term from the data
-                command = data.slice(0, data.indexOf(','));
-                term = data.slice(data.indexOf(',') + 1);
+                var command = data.slice(0, data.indexOf(','));
+                var term = data.slice(data.indexOf(',') + 1);
     
                 // If the term is surrounded by quotation marks
                 if (term.charAt(0) === '"' && term.charAt(term.length - 1) === '"') {

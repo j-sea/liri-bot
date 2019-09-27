@@ -4,7 +4,10 @@
 This is a text-recognition bot that will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
 ## Overview
-Created in JavaScript, this app takes user input via the command line, conducts the relevant search queries, displays the results in the console, and also writes the results to `log.txt`.
+Created using Node.js, this app takes user input via the command line, conducts the relevant search queries, displays the results in the console, and also writes the results to `log.txt`.
+
+## Preview
+![Preview GIF of LIRI Bot in action](./preview.gif "Preview GIF of LIRI Bot in action")
 
 ## Installation
 

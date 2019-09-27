@@ -1,4 +1,681 @@
+Error: getaddrinfo ENOTFOUND rest.bandsintown.com rest.bandsintown.com:443Error: getaddrinfo ENOTFOUND rest.bandsintown.com rest.bandsintown.com:443
+Upcoming Shows for "K FLay":
 
+Venue: 9:30
+Location: Washington, DC, United States
+Date: 09/29/2019
+----------------------------------------------------------------------
+Venue: The Fillmore Charlotte presented by Cricket Wireless
+Location: Charlotte, NC, United States
+Date: 09/30/2019
+----------------------------------------------------------------------
+Venue: Marathon Music Works
+Location: Nashville, TN, United States
+Date: 10/02/2019
+----------------------------------------------------------------------
+Venue: Zilker Metropolitan Park
+Location: Austin, TX, United States
+Date: 10/04/2019
+----------------------------------------------------------------------
+Venue: The Wiltern
+Location: Los Angeles, CA, United States
+Date: 10/09/2019
+----------------------------------------------------------------------
+Venue: Zilker Metropolitan Park
+Location: Austin, TX, United States
+Date: 10/11/2019
+----------------------------------------------------------------------
+Venue: Fillmore Auditorium
+Location: Denver, CO, United States
+Date: 10/12/2019
+----------------------------------------------------------------------
+Venue: O2 Academy2 Birmingham
+Location: Birmingham, United Kingdom
+Date: 10/18/2019
+----------------------------------------------------------------------
+Venue: Thekla
+Location: Bristol, United Kingdom
+Date: 10/19/2019
+----------------------------------------------------------------------
+Venue: Saint Luke's
+Location: Glasgow, United Kingdom
+Date: 10/21/2019
+----------------------------------------------------------------------
+Venue: Gorilla
+Location: Manchester, United Kingdom
+Date: 10/22/2019
+----------------------------------------------------------------------
+Venue: Heaven
+Location: London, United Kingdom
+Date: 10/23/2019
+----------------------------------------------------------------------
+Venue: Paradiso Noord, Tolhuistuin
+Location: Nieuw-amsterdam, Netherlands
+Date: 10/25/2019
+----------------------------------------------------------------------
+Venue: Le Botanique
+Location: Saint-josse-ten-noode, Belgium
+Date: 10/26/2019
+----------------------------------------------------------------------
+Venue: La Maroquinerie
+Location: Paris, France
+Date: 10/27/2019
+----------------------------------------------------------------------
+Venue: Kulturkirche Köln
+Location: Köln-nippes, Germany
+Date: 10/29/2019
+----------------------------------------------------------------------
+Venue: Astra Kulturhaus
+Location: Berlin, Germany
+Date: 10/31/2019
+----------------------------------------------------------------------
+Venue: Hotel Cecil
+Location: København K, Denmark
+Date: 11/01/2019
+----------------------------------------------------------------------
+Venue: Nalen Klubb
+Location: Stockholm, Sweden
+Date: 11/02/2019
+----------------------------------------------------------------------
+Venue: Markthalle Hamburg
+Location: Hamburg, Germany
+Date: 11/04/2019
+----------------------------------------------------------------------
+Venue: WERK2 - Halle D
+Location: Leipzig-thekla, Germany
+Date: 11/05/2019
+----------------------------------------------------------------------
+Venue: Rock Café
+Location: Praha, Czech Republic
+Date: 11/07/2019
+----------------------------------------------------------------------
+Venue: Strom
+Location: München, Germany
+Date: 11/10/2019
+----------------------------------------------------------------------
+Venue: Zoom
+Location: Frankfurt An Der Oder, Germany
+Date: 11/11/2019
+----------------------------------------------------------------------
+Upcoming Shows for "K.FLay":
+
+Venue: 9:30
+Location: Washington, DC, United States
+Date: 09/29/2019
+----------------------------------------------------------------------
+Venue: The Fillmore Charlotte presented by Cricket Wireless
+Location: Charlotte, NC, United States
+Date: 09/30/2019
+----------------------------------------------------------------------
+Venue: Marathon Music Works
+Location: Nashville, TN, United States
+Date: 10/02/2019
+----------------------------------------------------------------------
+Venue: Zilker Metropolitan Park
+Location: Austin, TX, United States
+Date: 10/04/2019
+----------------------------------------------------------------------
+Venue: The Wiltern
+Location: Los Angeles, CA, United States
+Date: 10/09/2019
+----------------------------------------------------------------------
+Venue: Zilker Metropolitan Park
+Location: Austin, TX, United States
+Date: 10/11/2019
+----------------------------------------------------------------------
+Venue: Fillmore Auditorium
+Location: Denver, CO, United States
+Date: 10/12/2019
+----------------------------------------------------------------------
+Venue: O2 Academy2 Birmingham
+Location: Birmingham, United Kingdom
+Date: 10/18/2019
+----------------------------------------------------------------------
+Venue: Thekla
+Location: Bristol, United Kingdom
+Date: 10/19/2019
+----------------------------------------------------------------------
+Venue: Saint Luke's
+Location: Glasgow, United Kingdom
+Date: 10/21/2019
+----------------------------------------------------------------------
+Venue: Gorilla
+Location: Manchester, United Kingdom
+Date: 10/22/2019
+----------------------------------------------------------------------
+Venue: Heaven
+Location: London, United Kingdom
+Date: 10/23/2019
+----------------------------------------------------------------------
+Venue: Paradiso Noord, Tolhuistuin
+Location: Nieuw-amsterdam, Netherlands
+Date: 10/25/2019
+----------------------------------------------------------------------
+Venue: Le Botanique
+Location: Saint-josse-ten-noode, Belgium
+Date: 10/26/2019
+----------------------------------------------------------------------
+Venue: La Maroquinerie
+Location: Paris, France
+Date: 10/27/2019
+----------------------------------------------------------------------
+Venue: Kulturkirche Köln
+Location: Köln-nippes, Germany
+Date: 10/29/2019
+----------------------------------------------------------------------
+Venue: Astra Kulturhaus
+Location: Berlin, Germany
+Date: 10/31/2019
+----------------------------------------------------------------------
+Venue: Hotel Cecil
+Location: København K, Denmark
+Date: 11/01/2019
+----------------------------------------------------------------------
+Venue: Nalen Klubb
+Location: Stockholm, Sweden
+Date: 11/02/2019
+----------------------------------------------------------------------
+Venue: Markthalle Hamburg
+Location: Hamburg, Germany
+Date: 11/04/2019
+----------------------------------------------------------------------
+Venue: WERK2 - Halle D
+Location: Leipzig-thekla, Germany
+Date: 11/05/2019
+----------------------------------------------------------------------
+Venue: Rock Café
+Location: Praha, Czech Republic
+Date: 11/07/2019
+----------------------------------------------------------------------
+Venue: Strom
+Location: München, Germany
+Date: 11/10/2019
+----------------------------------------------------------------------
+Venue: Zoom
+Location: Frankfurt An Der Oder, Germany
+Date: 11/11/2019
+----------------------------------------------------------------------
+Song Information for "Giver":
+
+Artist(s): K.Flay
+Track Name: Giver
+Link: https://open.spotify.com/track/5f8z7Cp7CY9T54Cnq1YVlh
+Album: Every Where Is Some Where
+----------------------------------------------------------------------
+Could not find any information for "Annihalation"!
+
+----------------------------------------------------------------------
+Upcoming Shows for "K.FLay":
+
+Venue: 9:30
+Location: Washington, DC, United States
+Date: 09/29/2019
+----------------------------------------------------------------------
+Venue: The Fillmore Charlotte presented by Cricket Wireless
+Location: Charlotte, NC, United States
+Date: 09/30/2019
+----------------------------------------------------------------------
+Venue: Marathon Music Works
+Location: Nashville, TN, United States
+Date: 10/02/2019
+----------------------------------------------------------------------
+Venue: Zilker Metropolitan Park
+Location: Austin, TX, United States
+Date: 10/04/2019
+----------------------------------------------------------------------
+Venue: The Wiltern
+Location: Los Angeles, CA, United States
+Date: 10/09/2019
+----------------------------------------------------------------------
+Venue: Zilker Metropolitan Park
+Location: Austin, TX, United States
+Date: 10/11/2019
+----------------------------------------------------------------------
+Venue: Fillmore Auditorium
+Location: Denver, CO, United States
+Date: 10/12/2019
+----------------------------------------------------------------------
+Venue: O2 Academy2 Birmingham
+Location: Birmingham, United Kingdom
+Date: 10/18/2019
+----------------------------------------------------------------------
+Venue: Thekla
+Location: Bristol, United Kingdom
+Date: 10/19/2019
+----------------------------------------------------------------------
+Venue: Saint Luke's
+Location: Glasgow, United Kingdom
+Date: 10/21/2019
+----------------------------------------------------------------------
+Venue: Gorilla
+Location: Manchester, United Kingdom
+Date: 10/22/2019
+----------------------------------------------------------------------
+Venue: Heaven
+Location: London, United Kingdom
+Date: 10/23/2019
+----------------------------------------------------------------------
+Venue: Paradiso Noord, Tolhuistuin
+Location: Nieuw-amsterdam, Netherlands
+Date: 10/25/2019
+----------------------------------------------------------------------
+Venue: Le Botanique
+Location: Saint-josse-ten-noode, Belgium
+Date: 10/26/2019
+----------------------------------------------------------------------
+Venue: La Maroquinerie
+Location: Paris, France
+Date: 10/27/2019
+----------------------------------------------------------------------
+Venue: Kulturkirche Köln
+Location: Köln-nippes, Germany
+Date: 10/29/2019
+----------------------------------------------------------------------
+Venue: Astra Kulturhaus
+Location: Berlin, Germany
+Date: 10/31/2019
+----------------------------------------------------------------------
+Venue: Hotel Cecil
+Location: København K, Denmark
+Date: 11/01/2019
+----------------------------------------------------------------------
+Venue: Nalen Klubb
+Location: Stockholm, Sweden
+Date: 11/02/2019
+----------------------------------------------------------------------
+Venue: Markthalle Hamburg
+Location: Hamburg, Germany
+Date: 11/04/2019
+----------------------------------------------------------------------
+Venue: WERK2 - Halle D
+Location: Leipzig-thekla, Germany
+Date: 11/05/2019
+----------------------------------------------------------------------
+Venue: Rock Café
+Location: Praha, Czech Republic
+Date: 11/07/2019
+----------------------------------------------------------------------
+Venue: Strom
+Location: München, Germany
+Date: 11/10/2019
+----------------------------------------------------------------------
+Venue: Zoom
+Location: Frankfurt An Der Oder, Germany
+Date: 11/11/2019
+----------------------------------------------------------------------
+Song Information for "Giver":
+
+Artist(s): K.Flay
+Track Name: Giver
+Link: https://open.spotify.com/track/5f8z7Cp7CY9T54Cnq1YVlh
+Album: Every Where Is Some Where
+----------------------------------------------------------------------
+Movie Information for "Annihilation":
+
+Title: Annihilation
+Year: 2018
+IMDB Rating: 6.9/10
+Rotten Tomatoes Rating: 87%
+Country: UK, USA
+Language: English
+Plot: A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.
+Actors: Natalie Portman, Benedict Wong, Sonoya Mizuno, David Gyasi
+----------------------------------------------------------------------
+Upcoming Shows for "K.FLay":
+
+Venue: 9:30
+Location: Washington, DC, United States
+Date: 09/29/2019
+----------------------------------------------------------------------
+Venue: The Fillmore Charlotte presented by Cricket Wireless
+Location: Charlotte, NC, United States
+Date: 09/30/2019
+----------------------------------------------------------------------
+Venue: Marathon Music Works
+Location: Nashville, TN, United States
+Date: 10/02/2019
+----------------------------------------------------------------------
+Venue: Zilker Metropolitan Park
+Location: Austin, TX, United States
+Date: 10/04/2019
+----------------------------------------------------------------------
+Venue: The Wiltern
+Location: Los Angeles, CA, United States
+Date: 10/09/2019
+----------------------------------------------------------------------
+Venue: Zilker Metropolitan Park
+Location: Austin, TX, United States
+Date: 10/11/2019
+----------------------------------------------------------------------
+Venue: Fillmore Auditorium
+Location: Denver, CO, United States
+Date: 10/12/2019
+----------------------------------------------------------------------
+Venue: O2 Academy2 Birmingham
+Location: Birmingham, United Kingdom
+Date: 10/18/2019
+----------------------------------------------------------------------
+Venue: Thekla
+Location: Bristol, United Kingdom
+Date: 10/19/2019
+----------------------------------------------------------------------
+Venue: Saint Luke's
+Location: Glasgow, United Kingdom
+Date: 10/21/2019
+----------------------------------------------------------------------
+Venue: Gorilla
+Location: Manchester, United Kingdom
+Date: 10/22/2019
+----------------------------------------------------------------------
+Venue: Heaven
+Location: London, United Kingdom
+Date: 10/23/2019
+----------------------------------------------------------------------
+Venue: Paradiso Noord, Tolhuistuin
+Location: Nieuw-amsterdam, Netherlands
+Date: 10/25/2019
+----------------------------------------------------------------------
+Venue: Le Botanique
+Location: Saint-josse-ten-noode, Belgium
+Date: 10/26/2019
+----------------------------------------------------------------------
+Venue: La Maroquinerie
+Location: Paris, France
+Date: 10/27/2019
+----------------------------------------------------------------------
+Venue: Kulturkirche Köln
+Location: Köln-nippes, Germany
+Date: 10/29/2019
+----------------------------------------------------------------------
+Venue: Astra Kulturhaus
+Location: Berlin, Germany
+Date: 10/31/2019
+----------------------------------------------------------------------
+Venue: Hotel Cecil
+Location: København K, Denmark
+Date: 11/01/2019
+----------------------------------------------------------------------
+Venue: Nalen Klubb
+Location: Stockholm, Sweden
+Date: 11/02/2019
+----------------------------------------------------------------------
+Venue: Markthalle Hamburg
+Location: Hamburg, Germany
+Date: 11/04/2019
+----------------------------------------------------------------------
+Venue: WERK2 - Halle D
+Location: Leipzig-thekla, Germany
+Date: 11/05/2019
+----------------------------------------------------------------------
+Venue: Rock Café
+Location: Praha, Czech Republic
+Date: 11/07/2019
+----------------------------------------------------------------------
+Venue: Strom
+Location: München, Germany
+Date: 11/10/2019
+----------------------------------------------------------------------
+Venue: Zoom
+Location: Frankfurt An Der Oder, Germany
+Date: 11/11/2019
+----------------------------------------------------------------------
+Song Information for "Giver":
+
+Artist(s): K.Flay
+Track Name: Giver
+Link: https://open.spotify.com/track/5f8z7Cp7CY9T54Cnq1YVlh
+Album: Every Where Is Some Where
+----------------------------------------------------------------------
+Movie Information for "Annihilation":
+
+Title: Annihilation
+Year: 2018
+IMDB Rating: 6.9/10
+Rotten Tomatoes Rating: 87%
+Country: UK, USA
+Language: English
+Plot: A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.
+Actors: Natalie Portman, Benedict Wong, Sonoya Mizuno, David Gyasi
+----------------------------------------------------------------------
+Upcoming Shows for "K.FLay":
+
+Venue: 9:30
+Location: Washington, DC, United States
+Date: 09/29/2019
+----------------------------------------------------------------------
+Venue: The Fillmore Charlotte presented by Cricket Wireless
+Location: Charlotte, NC, United States
+Date: 09/30/2019
+----------------------------------------------------------------------
+Venue: Marathon Music Works
+Location: Nashville, TN, United States
+Date: 10/02/2019
+----------------------------------------------------------------------
+Venue: Zilker Metropolitan Park
+Location: Austin, TX, United States
+Date: 10/04/2019
+----------------------------------------------------------------------
+Venue: The Wiltern
+Location: Los Angeles, CA, United States
+Date: 10/09/2019
+----------------------------------------------------------------------
+Venue: Zilker Metropolitan Park
+Location: Austin, TX, United States
+Date: 10/11/2019
+----------------------------------------------------------------------
+Venue: Fillmore Auditorium
+Location: Denver, CO, United States
+Date: 10/12/2019
+----------------------------------------------------------------------
+Venue: O2 Academy2 Birmingham
+Location: Birmingham, United Kingdom
+Date: 10/18/2019
+----------------------------------------------------------------------
+Venue: Thekla
+Location: Bristol, United Kingdom
+Date: 10/19/2019
+----------------------------------------------------------------------
+Venue: Saint Luke's
+Location: Glasgow, United Kingdom
+Date: 10/21/2019
+----------------------------------------------------------------------
+Venue: Gorilla
+Location: Manchester, United Kingdom
+Date: 10/22/2019
+----------------------------------------------------------------------
+Venue: Heaven
+Location: London, United Kingdom
+Date: 10/23/2019
+----------------------------------------------------------------------
+Venue: Paradiso Noord, Tolhuistuin
+Location: Nieuw-amsterdam, Netherlands
+Date: 10/25/2019
+----------------------------------------------------------------------
+Venue: Le Botanique
+Location: Saint-josse-ten-noode, Belgium
+Date: 10/26/2019
+----------------------------------------------------------------------
+Venue: La Maroquinerie
+Location: Paris, France
+Date: 10/27/2019
+----------------------------------------------------------------------
+Venue: Kulturkirche Köln
+Location: Köln-nippes, Germany
+Date: 10/29/2019
+----------------------------------------------------------------------
+Venue: Astra Kulturhaus
+Location: Berlin, Germany
+Date: 10/31/2019
+----------------------------------------------------------------------
+Venue: Hotel Cecil
+Location: København K, Denmark
+Date: 11/01/2019
+----------------------------------------------------------------------
+Venue: Nalen Klubb
+Location: Stockholm, Sweden
+Date: 11/02/2019
+----------------------------------------------------------------------
+Venue: Markthalle Hamburg
+Location: Hamburg, Germany
+Date: 11/04/2019
+----------------------------------------------------------------------
+Venue: WERK2 - Halle D
+Location: Leipzig-thekla, Germany
+Date: 11/05/2019
+----------------------------------------------------------------------
+Venue: Rock Café
+Location: Praha, Czech Republic
+Date: 11/07/2019
+----------------------------------------------------------------------
+Venue: Strom
+Location: München, Germany
+Date: 11/10/2019
+----------------------------------------------------------------------
+Venue: Zoom
+Location: Frankfurt An Der Oder, Germany
+Date: 11/11/2019
+----------------------------------------------------------------------
+Song Information for "Giver":
+
+Artist(s): K.Flay
+Track Name: Giver
+Link: https://open.spotify.com/track/5f8z7Cp7CY9T54Cnq1YVlh
+Album: Every Where Is Some Where
+----------------------------------------------------------------------
+Movie Information for "Annihilation":
+
+Title: Annihilation
+Year: 2018
+IMDB Rating: 6.9/10
+Rotten Tomatoes Rating: 87%
+Country: UK, USA
+Language: English
+Plot: A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.
+Actors: Natalie Portman, Benedict Wong, Sonoya Mizuno, David Gyasi
+----------------------------------------------------------------------
+Song Information for "Modern Girls and Old Fashion Men":
+
+Artist(s): The Strokes, Regina Spektor
+Track Name: Modern Girls & Old Fashion Men
+Link: https://open.spotify.com/track/4yVixayMpxm2MUGOePA192
+Album: Modern Girls & Old Fashion Men
+----------------------------------------------------------------------
+Upcoming Shows for "K.FLay":
+
+Venue: 9:30
+Location: Washington, DC, United States
+Date: 09/29/2019
+----------------------------------------------------------------------
+Venue: The Fillmore Charlotte presented by Cricket Wireless
+Location: Charlotte, NC, United States
+Date: 09/30/2019
+----------------------------------------------------------------------
+Venue: Marathon Music Works
+Location: Nashville, TN, United States
+Date: 10/02/2019
+----------------------------------------------------------------------
+Venue: Zilker Metropolitan Park
+Location: Austin, TX, United States
+Date: 10/04/2019
+----------------------------------------------------------------------
+Venue: The Wiltern
+Location: Los Angeles, CA, United States
+Date: 10/09/2019
+----------------------------------------------------------------------
+Venue: Zilker Metropolitan Park
+Location: Austin, TX, United States
+Date: 10/11/2019
+----------------------------------------------------------------------
+Venue: Fillmore Auditorium
+Location: Denver, CO, United States
+Date: 10/12/2019
+----------------------------------------------------------------------
+Venue: O2 Academy2 Birmingham
+Location: Birmingham, United Kingdom
+Date: 10/18/2019
+----------------------------------------------------------------------
+Venue: Thekla
+Location: Bristol, United Kingdom
+Date: 10/19/2019
+----------------------------------------------------------------------
+Venue: Saint Luke's
+Location: Glasgow, United Kingdom
+Date: 10/21/2019
+----------------------------------------------------------------------
+Venue: Gorilla
+Location: Manchester, United Kingdom
+Date: 10/22/2019
+----------------------------------------------------------------------
+Venue: Heaven
+Location: London, United Kingdom
+Date: 10/23/2019
+----------------------------------------------------------------------
+Venue: Paradiso Noord, Tolhuistuin
+Location: Nieuw-amsterdam, Netherlands
+Date: 10/25/2019
+----------------------------------------------------------------------
+Venue: Le Botanique
+Location: Saint-josse-ten-noode, Belgium
+Date: 10/26/2019
+----------------------------------------------------------------------
+Venue: La Maroquinerie
+Location: Paris, France
+Date: 10/27/2019
+----------------------------------------------------------------------
+Venue: Kulturkirche Köln
+Location: Köln-nippes, Germany
+Date: 10/29/2019
+----------------------------------------------------------------------
+Venue: Astra Kulturhaus
+Location: Berlin, Germany
+Date: 10/31/2019
+----------------------------------------------------------------------
+Venue: Hotel Cecil
+Location: København K, Denmark
+Date: 11/01/2019
+----------------------------------------------------------------------
+Venue: Nalen Klubb
+Location: Stockholm, Sweden
+Date: 11/02/2019
+----------------------------------------------------------------------
+Venue: Markthalle Hamburg
+Location: Hamburg, Germany
+Date: 11/04/2019
+----------------------------------------------------------------------
+Venue: WERK2 - Halle D
+Location: Leipzig-thekla, Germany
+Date: 11/05/2019
+----------------------------------------------------------------------
+Venue: Rock Café
+Location: Praha, Czech Republic
+Date: 11/07/2019
+----------------------------------------------------------------------
+Venue: Strom
+Location: München, Germany
+Date: 11/10/2019
+----------------------------------------------------------------------
+Venue: Zoom
+Location: Frankfurt An Der Oder, Germany
+Date: 11/11/2019
+----------------------------------------------------------------------
+Song Information for "Giver":
+
+Artist(s): K.Flay
+Track Name: Giver
+Link: https://open.spotify.com/track/5f8z7Cp7CY9T54Cnq1YVlh
+Album: Every Where Is Some Where
+----------------------------------------------------------------------
+Movie Information for "Annihilation":
+
+Title: Annihilation
+Year: 2018
+IMDB Rating: 6.9/10
+Rotten Tomatoes Rating: 87%
+Country: UK, USA
+Language: English
+Plot: A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.
+Actors: Natalie Portman, Benedict Wong, Sonoya Mizuno, David Gyasi
+----------------------------------------------------------------------
 Song Information for "Modern Girls and Old Fashion Men":
 
 Artist(s): The Strokes, Regina Spektor

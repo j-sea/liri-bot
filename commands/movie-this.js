@@ -23,7 +23,7 @@ module.exports = {
             .then(function (response) {
 
                 var printMessage = '';
-console.log(response.data);
+
                 // If we found some information for the given movie
                 if (!response.data.hasOwnProperty('Error')) {
 
